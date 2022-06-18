@@ -1,4 +1,4 @@
-TwitterStreamingAnalytics
+Twitter Streaming Analytics
 ==============================
 
 Welcome to our project - Social Media Marketing Campaign analysis.
