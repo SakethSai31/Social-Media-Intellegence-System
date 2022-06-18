@@ -183,11 +183,6 @@ Project Organization
 │   ├── test_airflow.py
 │   └── test_dag.py
 ├── README.md
-├── data
-│   ├── external
-│   ├── interim
-│   ├── processed
-│   └── raw
 ├── docs
 │   ├── Makefile
 │   ├── commands.rst
@@ -195,11 +190,6 @@ Project Organization
 │   ├── getting-started.rst
 │   ├── index.rst
 │   └── make.bat
-├── models
-├── notebooks
-├── references
-├── reports
-│   └── figures
 ├── setup.py
 ├── src
 │   ├── Apache_Beam
