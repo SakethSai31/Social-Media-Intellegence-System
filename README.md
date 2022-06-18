@@ -1,5 +1,4 @@
-# Social Media Intellegence System
-Twitter Streaming Analytics
+TwitterStreamingAnalytics
 ==============================
 
 Welcome to our project - Social Media Marketing Campaign analysis.
@@ -29,7 +28,7 @@ Our Architecture can be divided broadly into 3 parts.
 * Finally, we have our front end and the intelligence part. We have a dynamic Google Datastudio dashboard embedded in our streamlit UI, along with few other interesting metrics such as WordCloud, Related Articles, Top mentioned organization, top mentioned location. We also have a login functionality to enable only authenticated users to access the project.
 * We are also using some other tools such as Github Actions for CI/CD, for airflow scripts which automatically push the updated airflow script to GCP Buckets for airflow to pick up. We also have used Git Projects and Issues to track the project at a granular level. We have used Cloud Logging for debugging and Pytest for Python testing and Postman for API testing.
 
-Technology Stack
+Technology Stack used
 ===================================
 * Programming Language:  Python 3.8
 * Cloud Platforms:  Google Cloud Platform, Amazon Web Services
